@@ -4,7 +4,7 @@
 ___
 
 ### About Me 🚀
-- 🎓 **Graduate Engineer from [ISEN](https://www.isen.fr/)** (Class of 2025), specialized in Big Data & Fullstack Development.
+- 🎓 **Graduate Engineer from [ISEN](https://www.isen.fr/)** (Class of 2025), specialized in Fullstack Development.
 - 💼 **Experienced Software Engineer** with 3 years at **Sopra Steria**, delivering high-criticality solutions for major banking and infrastructure clients.
 - 🥋 **15 years of Aikido practice**: This martial art forged my **discipline and rigor**. In code as on the tatami, I seek the most efficient path—a mindset that allowed me to **divide execution time by 3** on critical industrial processes.
 - 🚵‍♂️ **Ski & MTB enthusiast (20 years)**: Practicing off-piste has naturally developed my **risk management and security-first** approach. For me, Software Engineering is about building safe, robust, and high-performance "engines" that never fail under pressure.
